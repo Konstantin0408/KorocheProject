@@ -1,0 +1,14 @@
+body
+{
+    background-color: rgba(144, 144, 144, 255);
+    height: 100%;
+}
+.cyan-stripe
+{
+    background-color: rgba(224, 248, 250, 255);
+    height: 478px;
+}
+.grey-stripe
+{
+    height: 273px;
+}
