@@ -6,9 +6,61 @@ body
 .cyan-stripe
 {
     background-color: rgba(224, 248, 250, 255);
-    height: 478px;
+    height: 319px;
+    display: flex;
+    justify-content: center;
 }
 .grey-stripe
 {
-    height: 273px;
+    height: 136px;
+}
+.cstripe1
+{
+    height: 50px;
+    margin-top: 50px;
+}
+.cstripe2
+{
+    height: 30px;
+    margin-top: 120px;
+    position: absolute;
+}
+.field
+{
+    display: flex;
+    justify-content: center;
+    height: 279px;
+    margin-top: 20px;
+    width: 100%;
+}
+.what-number
+{
+    height: 30px;
+    margin-top: 10px;
+}
+.answer-field
+{
+    height: 30px;
+    margin-top: 10px;
+}
+.insert-button
+{
+    height: 30px;
+    margin-top: 20px;
+}
+.return-button
+{
+    height: 30px;
+    margin-top: 20px;
+}
+.test-picture
+{
+    height: 250px;
+    width: 250px;
+}
+.left-half
+{
+    display: flex;
+    justify-content: right;
+    width: 100%;
 }
